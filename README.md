@@ -6,5 +6,5 @@ my vmubuntu
 MASTER v1
 
 {
-CLONE
+CLONE: this is my change
 }
